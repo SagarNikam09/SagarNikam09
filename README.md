@@ -11,10 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sagarpatilx388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagarpatilx388" height="30" width="40" /></a>
+<a href="https://twitter.com/saga09x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saga09x" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sagarnikam09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarnikam09" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_sagarpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar.59x" height="30" width="40" /></a>
-<a href="https://medium.com/@sagarpatilx388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sagarpatilx388" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
